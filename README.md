@@ -1,9 +1,8 @@
-# First
-practice
 
 <html>
 <head>
-<title> Welcome to my Project </title>
+<h1> Welcome to my Project </h1>
+<h2> By: Sharon Ye </h2>
 
 </head>
 <body>
